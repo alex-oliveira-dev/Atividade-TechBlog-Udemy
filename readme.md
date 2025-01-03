@@ -4,5 +4,5 @@ Desenvolvimento de um site Tecnologia de nome TechBlog para treinar conhecimento
 
 Ajustes de displays usando o float.
 Uso de Ids e classes para estilização com css.
-Estilizzação de links com css.
+Estilização de links com css.
 Estilização dinamica e glogal.
